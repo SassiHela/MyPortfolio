@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   //title: '', // Hello, my name is
   name: 'Hela SASSI',
-  subtitle: ' Développeuse FULL STACK JS Junior',
+  subtitle: ' Développeuse FULL STACK JS Junior MERN Stack',
   cta: 'Savoir plus', // Know more
 };
 
@@ -19,13 +19,13 @@ export const heroData = {
 export const aboutData = {
   img: 'Pic-Hela Sassi.jpg',
   paragraphOne:
-    "J'ai suivi la formation FullStack JS chez Go My Code pour renforcer les compétences nécessaires pour entamer une carrière de développeur web. ",
+    "Récemment, j'ai suivi la formation FullStack JS chez Go My Code pour renforcer les compétences nécessaires pour entamer une carrière de développeur web. ",
   paragraphTwo:
-    "ce que j'apprécie dans le domaine de développement web le MOMENT de satisfaction que j'ai eu après avoir créé des sites web ergonomiquement beaux",
+    "Je pense que ce qui est important pour moi lors de la création d'un site web c’est que le design soit travaillé et que le site soit agréable et de navigation très simple.",
   paragraphThree:
-    "j'admire les merveilles d'un coucher de soleil , mon âme se répand en adoration du créateur donc dans mon portofolio j'ai fait appel à ce magnifique couleur evening sunshine",
+    "J'admire les merveilles d'un coucher de soleil , mon âme se répand en adoration du créateur. C'est ce qui m'a fait utiliser cette magnifique couleur",
 
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1IVhbP3Xs2KH5bEsmlQQ2wexoY2MihOq8/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -34,9 +34,10 @@ export const projectsData = [
     id: nanoid(),
     img: 'project1.PNG',
     title: 'Tunisie Recyclage',
-    info: "Projet final pour l'obtention du certificat GoMyCode",
+    info: "Projet final pour l'obtention du certificat GoMyCode.",
     info2:
-      'Un boutique en ligne de produits éco-responsable, pour réduire le plastique de sa vie quotidienne, avec un service de payement STRIPE',
+      'Un boutique en ligne de produits éco-responsable, pour réduire le plastique de sa vie quotidienne, avec un service de payement STRIPE.',
+    info3: 'Les technologies utilisées : React , Node JS, MongoDB.',
     url: 'https://tunisierecyclage.herokuapp.com/',
     repo: 'https://github.com/SassiHela/Final-project-e-commerce', // if no repo, the button will not show up
   },
@@ -46,8 +47,9 @@ export const projectsData = [
     title: 'Portfolio',
     info: '',
     info2: '',
+    info3: 'Les technologies utilisées : React ,Gatsby.',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/SassiHela/MyPortfolio', // if no repo, the button will not show up
   },
   // {
   //   id: nanoid(),
