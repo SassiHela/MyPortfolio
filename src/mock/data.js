@@ -37,7 +37,7 @@ export const projectsData = [
     info: "Projet final pour l'obtention du certificat GoMyCode.",
     info2:
       'Un boutique en ligne de produits éco-responsable, pour réduire le plastique de sa vie quotidienne, avec un service de payement STRIPE.',
-    info3: 'Les technologies utilisées : React , Node JS, MongoDB.',
+    info3: 'Les technologies utilisées : React ,Express JS, Node JS, MongoDB.',
     url: 'https://tunisierecyclage.herokuapp.com/',
     repo: 'https://github.com/SassiHela/Final-project-e-commerce', // if no repo, the button will not show up
   },
