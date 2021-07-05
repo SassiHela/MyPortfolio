@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   //title: '', // Hello, my name is
   name: 'Hela SASSI',
-  subtitle: ' Développeuse FULL STACK JS Junior MERN Stack',
+  subtitle: ' Développeur FULL STACK JS Junior MERN Stack',
   cta: 'Savoir plus', // Know more
 };
 
@@ -25,7 +25,7 @@ export const aboutData = {
   paragraphThree:
     "J'admire les merveilles d'un coucher de soleil , mon âme se répand en adoration du créateur. C'est ce qui m'a fait utiliser cette magnifique couleur",
 
-  resume: 'https://drive.google.com/file/d/1IVhbP3Xs2KH5bEsmlQQ2wexoY2MihOq8/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/14SoY43SiBNPVxPZMvL0iDkJft46SbiLv/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
