@@ -25,7 +25,7 @@ export const aboutData = {
   paragraphThree:
     "J'admire les merveilles d'un coucher de soleil , mon âme se répand en adoration du créateur. C'est ce qui m'a fait utiliser cette magnifique couleur",
 
-  resume: 'https://drive.google.com/file/d/1DaJqkWCQzNRdYmx5foWiJ86DXFAktDhV/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1ar1moqGePsn_xVs-fh_FwH8DTwRJQZ1l/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
