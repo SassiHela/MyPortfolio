@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  //title: '', // Hello, my name is
+  // title: '', // Hello, my name is
   name: 'Hela SASSI',
   subtitle: ' Développeur FULL STACK JS Junior MERN Stack',
   cta: 'Savoir plus', // Know more
@@ -47,19 +47,19 @@ export const projectsData = [
     title: 'Portfolio',
     info: '',
     info2: '',
-    info3: 'Les technologies utilisées : React ,Gatsby.',
+    info3: 'Les technologies utilisées : React , Gatsby',
     url: '',
     repo: 'https://github.com/SassiHela/MyPortfolio', // if no repo, the button will not show up
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'project.jpg',
-  //   title: '',
-  //   info: '',
-  //   info2: '',
-  //   url: '',
-  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  // },
+  {
+    id: nanoid(),
+    img: 'Natours.PNG',
+    title: 'Natours : CSS Avancé',
+    info: 'Les technologies utilisées : CSS , SASS',
+    info2: '',
+    url: 'https://6193b35f6a93bf000710d38c--natours-sass-website.netlify.app/',
+    repo: 'https://github.com/SassiHela/Natours_Website', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
